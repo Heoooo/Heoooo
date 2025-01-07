@@ -6,8 +6,6 @@
 
 ### 🙇 안녕하세요, Back-End Programmer로 성장해나가고 있는 허진혁입니다!
 
-[![Tistory](https://heoooo-o.tistory.com/)](티스토리링크)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heo9290)](https://solved.ac/heo9290)
 <img src="http://mazandi.herokuapp.com/api?handle=heo9290&theme=warm"/>
