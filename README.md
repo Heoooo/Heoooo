@@ -10,6 +10,9 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heo9290)](https://solved.ac/heo9290)
 <img src="http://mazandi.herokuapp.com/api?handle=heo9290&theme=warm"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heoooo)](https://github.com/Heoooo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heoooo)](https://github.com/Heoooo/github-readme-stats)
+
 <!-- Body -->
 
 ### 🦾 Skills
