@@ -8,7 +8,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heo9290)](https://solved.ac/heo9290)
-<img src="http://mazandi.herokuapp.com/api?handle={heo9290}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=heo9290&theme=warm"/>
 
 <!-- Body -->
 
