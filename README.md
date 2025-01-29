@@ -42,16 +42,16 @@
 
 
 ### 💥 Experience
-**👨‍🎓 Learning
+**👨‍🎓 Learning**
 경기대학교 컴퓨터공학부 (2018.3 ~ 2025.02)
 LG U+ 유레카 백엔드 (2025.01 ~ 2025.08)
 
-**📋 Certification
+**📋 Certification**
 SQLD (2023.10.06)
 리눅스마스터 2급 (2023.12.29)
 정보처리기사 (2024.06.18)
 
-**🏆 Awards
+**🏆 Awards**
 TOPCIT 성적우수자 학장상 (2024.07.17)
 
 <!--footer-->
