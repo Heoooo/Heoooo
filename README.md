@@ -39,5 +39,20 @@
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
+
+
+### 💥 Experience
+**👨‍🎓 Learning
+경기대학교 컴퓨터공학부 (2018.3 ~ 2025.02)
+LG U+ 유레카 백엔드 (2025.01 ~ 2025.08)
+
+**📋 Certification
+SQLD (2023.10.06)
+리눅스마스터 2급 (2023.12.29)
+정보처리기사 (2024.06.18)
+
+**🏆 Awards
+TOPCIT 성적우수자 학장상 (2024.07.17)
+
 <!--footer-->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
