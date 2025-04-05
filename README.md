@@ -1,6 +1,6 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=%20항상%20긍정적인%20마인드로!&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=%20항상%20긍정적인%20마인드로&fontAlign=40&fontAlignY=40&color=gradient)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeoooo&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 
