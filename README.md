@@ -65,5 +65,7 @@ TOPCIT 수준 4 (2024.05.18)
 
 TOPCIT 성적우수자 학장상 (2024.07.17)
 
+SSAFY 공통프로젝트 1등 (2026.02.09)
+
 <!--footer-->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
